@@ -1,0 +1,1 @@
+{"version":3,"file":"main.b7acee926cf0e383bb03.bundle.js","sources":["webpack:///./src/components/Square/index.js"],"sourcesContent":["import React from \"react\";\r\nimport \"./style.css\";\r\n\r\nconst Square = () => {\r\n  return <div className=\"square\">Square</div>;\r\n};\r\n\r\nexport default Square;\r\n"],"mappings":"AAAA","sourceRoot":""}
